@@ -85,7 +85,7 @@ $$
 	}
 	
 输出结果：
-![白平衡--灰度世界算法](../../imgs/white_balance/白平衡--灰度世界.png)
+![白平衡--灰度世界算法](../../imgs/white_balance/result-white_balance_gray_world.png)
 
 
 

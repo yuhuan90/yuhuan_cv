@@ -55,7 +55,7 @@ $$
 **该理论实现不同光源间的转换。**
 
 ### **3、代码**
-
+	// 测试图片 ../../imgs/white_balance/white_balance_demo.jpg
 	Mat grayWorld(Mat srcImg){
 	    vector<Mat> imageRGB;
 	
